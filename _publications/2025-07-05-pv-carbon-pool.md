@@ -11,5 +11,4 @@ venue: 'Nature Geoscience'
 # bibtexurl: ''
 citation: 'Wang, Q., Wang, K., Shao, L. et al. Increased terrestrial ecosystem carbon storage associated with global utility-scale photovoltaic installation. Nat. Geosci. (2025). https://doi.org/10.1038/s41561-025-01715-2'
 ---
-# Associated content
-Lu, Z. The extra climate benefits of solar farms. Nat. Geosci. (2025). https://doi.org/10.1038/s41561-025-01716-1
+Associated content: Lu, Z. The extra climate benefits of solar farms. Nat. Geosci. (2025). https://doi.org/10.1038/s41561-025-01716-1
